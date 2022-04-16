@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/Megamgistr/cli-weather#readme",
   "dependencies": {
-    "axios": "^0.26.1"
+    "axios": "^0.26.1",
+    "chalk": "^5.0.1",
+    "dedent-js": "^1.0.1"
   }
 }
